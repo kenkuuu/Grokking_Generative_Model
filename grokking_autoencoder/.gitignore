@@ -1,0 +1,7 @@
+__pycache__/
+data/raw/
+data/processed/
+outputs/checkpoints/
+.ipynb_checkpoints/
+.env
+wandb/
